@@ -10,6 +10,7 @@ Wordcraft is a powerful tool designed for password profiling and generation. Wor
 - 
 
 ### Screenshots
+![Image 1](https://github.com/AbidineZinelabidine/Wordcraft/blob/main/images/wordcraft_screenshot.png)
 
 
 
