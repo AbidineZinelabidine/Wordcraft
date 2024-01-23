@@ -36,7 +36,21 @@ $ pip3 install -r requirements.txt
 $ chmod 755 wordcraft.py
 $ sudo python3 wordcraft.py
 ```
+# Usage:
+```python3 wordcraft.py [--hard] [-q] [--no-strings] [-o OUTPUT] [-v]```
+
+**- Arguments:**
+
+```
+--hard      : Enable hard mode for complex wordlist
+-q, --quiet : Run in quiet mode, do not use animation
+-o, --output: Specify file to write output
+-v, --version: Print current wordcraft version
+```
+
 **[*] Good Shot ! :)**
+
+
 
 # Author:
 **[~] Zinelabidine:**
