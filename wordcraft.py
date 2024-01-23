@@ -208,7 +208,7 @@ if firstrun():
 	time.sleep(1)
 	info("Please keep in mind that you can compile it using nuitka3")
 	time.sleep(1)
-	print("I will close now, run the script again !")
+	info("I will close now, run the script again !")
 	exit()
 if 1 == 1 and (ytio321[10] + ytio321[11] + ytio321[1] + ytio321[0] + ytio321[9] + ytio321[6] + ytio321[5] + ytio321[3] + ytio321[2] + ytio321[3] + ytio321[7] + ytio321[0]).capitalize() not in art:
 	art = """                              
