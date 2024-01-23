@@ -6,9 +6,9 @@ Wordcraft is a powerful tool designed for password profiling and generation. Wor
 # Features :
 **[~] Greatfull friendly interface for users with animation**
 
-**[~] Hard mode for advanced wordlist**
+**[~] Hard mode for advanced complex wordlist**
 
-**[~] Special characters for wordlist**
+**[~] Special characters feature**
 
 **[~] No repeated words !**
 
@@ -20,13 +20,6 @@ Wordcraft is a powerful tool designed for password profiling and generation. Wor
 # Screenshots :
 **==> Screenshot 1 :**
 ![screenshot 1](https://github.com/AbidineZinelabidine/Wordcraft/blob/main/images/wordcraft_screenshot.png)
-
-### Tested on :
-**[+] Kali linux**
-
-**[+] Ubuntu**
-
-**[+] Termux**
 
 
 # Requirements :
@@ -41,5 +34,11 @@ $ git clone https://github.com/AbidineZinelabidine/Wordcraft.git
 $ cd Wordcraft
 $ pip3 install -r requirements.txt
 $ chmod 755 wordcraft.py
-$ sudo python3 wordcraft.py 
+$ sudo python3 wordcraft.py
 ```
+**[*] Good Shot ! :)**
+
+# Author:
+**[~] Zinelabidine:**
+https://www.instagram.com/linpeas777
+
