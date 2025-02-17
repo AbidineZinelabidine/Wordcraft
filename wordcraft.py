@@ -89,7 +89,7 @@ def get_quote():
 			error("Please run as root or allow write access in /usr/share/")
 			exit()
 	try:
-		quotes = requests.get("https://raw.githubusercontent.com/AbidineZinelabidine/hacking-quotes/main/quotes.txt", timeout=3).text
+		quotes = requests.get("https://pastebin.com/raw/283hxx5X", timeout=3).text
 	except:
 		quotes = ["Craft it ! and go ahead :)", "Wordcraft ... People hacking"]
 		error("Connection error !")
